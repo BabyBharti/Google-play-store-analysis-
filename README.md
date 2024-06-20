@@ -35,4 +35,5 @@ Impact of Pricing: Free apps generally receive more downloads but lower average 
 Update Frequency: Apps that are frequently updated tend to have higher ratings, suggesting that continuous improvements positively impact user satisfaction.
 
 ###### **📞 Contact**
+jsbabyrb@gmail.com
 
